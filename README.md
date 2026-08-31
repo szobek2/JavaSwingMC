@@ -3,10 +3,10 @@ The goal of the project is to implement a 3D renderer using only Java Swing elem
 Note that the 3D renderer is a highly-optimized software implementation (so that even the JVM can run it...) and for the sake of purity, hardware acceleration is also disabled for the Java Swing UI elements.<br>
 <br>
 If you'd like to try it, type the following commands (while in your root directory and also assuming you're using Windows):
-<code>
+<pre><code>{
 dir sauce<br>
 gradlew run
-</code>
+}</code></pre>
 <br>
 ## Gallery
 
