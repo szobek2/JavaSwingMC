@@ -2,9 +2,10 @@
 The goal of the project is to implement a 3D renderer using only Java Swing elements that can draw a Minecraft-like world at an acceptable frame rate.<br>
 Note that the 3D renderer is a highly-optimized software implementation (so that even the JVM can run it...) and for the sake of purity, hardware acceleration is also disabled for the Java Swing UI elements.<br>
 <br>
-If you'd like to try it, type the following commands (while in your root directory and also assuming you're using Windows):
+If you'd like to try it, type the following commands (assuming you're using Windows):
 <pre>
-dir sauce
+REM While in the root directory of the project
+cd sauce
 gradlew run
 </pre>
 <br>
