@@ -1,5 +1,6 @@
-# Morbius-Motorsport-2025
-pushing the bounds of java awt/swing even further (minecraft)
+# Minecraft clone (again) in Java Swing
+The goal of the project is to implement a 3D renderer using only Java Swing elements that can draw a Minecraft-like world at an acceptable frame rate.<br>
+Note that the renderer is a highly-optimized software implementation (so that even the JVM can run it...), the only GPU use happens when drawing the final framebuffer contents to the screen (it can be disabled without much effect tho).
 
 ## Behold the screenshots
 
